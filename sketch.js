@@ -13,8 +13,8 @@ function setup() {
 function draw() {
   background("brown")
   fill("black")
-  triangle(147,339,82,466,208,473)
-  triangle(147,339,230,256,118,225)
+  triangle(147,350,82,466,208,473)
+  triangle(147,350,230,256,118,225)
   circle(195,194,60)
   strokeWeight(8)
   line(195,194,177,243)
@@ -29,7 +29,7 @@ function draw() {
   line(167,471,223,526)
   line(223,526,203,602)
 
-  triangle(418,330,350,450,500,450)
+  triangle(418,330,360,450,490,450)
   triangle(418,330,345,220,455,193)
   circle(386,155,60)
   circle(432,144,40)
